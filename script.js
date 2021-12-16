@@ -19,5 +19,5 @@ if (answer === 'Лук'){
 }
 
 alert ('Верных ответов : ' + score);
-
+console.log ("Hi github");
 
