@@ -35,3 +35,8 @@ if (answer === 'Лук'){
   score = score + 1;
 }
 
+answer = prompt ('Кто его раздевает, тот слёзы пролевает');
+if (answer === 'Лук'){
+  alert ('Yes!');
+  score = score + 1;
+}
