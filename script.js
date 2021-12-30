@@ -21,3 +21,17 @@ if (answer === 'Лук'){
 alert ('Верных ответов : ' + score);
 console.log ("Hi github");
 
+answer = prompt ('Кто его раздевает, тот слёзы пролевает');
+if (answer === 'Лук'){
+  alert ('Yes!');
+  score = score + 1;
+} else {
+  alert ('No(!');
+}
+
+answer = prompt ('Кто его раздевает, тот слёзы пролевает');
+if (answer === 'Лук'){
+  alert ('Yes!');
+  score = score + 1;
+}
+
